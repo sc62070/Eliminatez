@@ -13,7 +13,7 @@ public class PlayerManager : MonoBehaviour
     void Start()
     {
         isGameOver = false;
-        playerHP = 100;
+        playerHP = 1000000;
     }
 
     // Update is called once per frame
